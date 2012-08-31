@@ -1,4 +1,4 @@
-h3. Mapa de onibus de Fortaleza
+h3. Mapa de onibus que circulam na cidade de Fortaleza, Ceará, Brasil
 
 *NB: The data are not automatically updated.*
 
